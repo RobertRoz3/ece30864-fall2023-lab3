@@ -1,1 +1,1 @@
-
+1. In a non-Agile project, the product owner equivalent would be something like a project manager. In Agile terms, a product owner is important to have because they hold the project together and make everything function. They set the direction for the team, handle the release management, and also manage the stakeholders. 
